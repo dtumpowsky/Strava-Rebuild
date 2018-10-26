@@ -1,0 +1,9 @@
+#homepage-logo {
+  max-height: 300px !important;
+  width: 90%;
+}
+
+#homepage-options {
+  background-color: #fc4c02;
+  color: white;
+}
